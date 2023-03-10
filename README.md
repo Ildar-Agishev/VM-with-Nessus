@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/JhDxiwLyQrE)
 
 <h2>Description</h2>
-In this project Nessus Essentials vulnerability scanning tool will be utilized in order to conduct scans against Windows 10 system. A deprecated software would be installed on purpose in Windows 10 to observe vulnerabilities related to the software. Both credential and non-credential scans were done to illustrate vulnerability management concepts. Vulnerabilities will then be patched up and a new scan will be done to exhibit the patched system.
+In this project, Nessus Essentials vulnerability scanning tool will be utilized in order to conduct scans against Windows 10 system. A deprecated software would be installed on purpose in Windows 10 to observe vulnerabilities related to the software. Both credential and non-credential scans were done to illustrate vulnerability management concepts. Vulnerabilities will then be patched up and a new scan will be done to exhibit the patched system.
 <br />
 <br />
 </b> **I want to thank Josh Madakor on YouTube for the lab tutorial.</b>
